@@ -11,9 +11,6 @@ class MinimalPublisher(Node):
         timer_period = 0.1
         self.timer = self.create_timer(timer_period, self.timer_callback)
         
-        # Configure logging to exclude the timestamp
-        rclpy.logging.set_logger_level(self.get_logger().name, rclpy.logging.LoggingSeverity.INFO)
-        self.get_logger().info("Logging configured to exclude timestamp.")
 
     def timer_callback(self):
         msg = String()
