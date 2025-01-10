@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'my_py_pkg'
+package_name = 'sum_pkg'
 
 setup(
     name=package_name,
@@ -13,15 +13,14 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='yousef',
-    maintainer_email='yousef_hesham.yh112@icloud.com',
+    maintainer='helal',
+    maintainer_email='Abdohelal20002018@gmail.com',
     description='TODO: Package description',
-    license='Apache-2.0',
+    license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
-        'console_scripts': [
-            'publisher_node = my_py_pkg.publisher_node:main',
-            'listener_node = my_py_pkg.subscriber_node:main',
+       'console_scripts': [
+             'talker = sum_pkg.publisher:main',
         ],
     },
 )

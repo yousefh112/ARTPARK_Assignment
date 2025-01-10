@@ -1,3 +1,0 @@
-[console_scripts]
-listener_node = py_pkg.subscriber_node:main
-publisher_node = my_py_pkg.publisher_node:main
