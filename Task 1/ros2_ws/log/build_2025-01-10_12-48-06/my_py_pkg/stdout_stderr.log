@@ -16,13 +16,16 @@ creating /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/build/my_py_pkg/build/li
 creating /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
 copying my_py_pkg/publisher_node.py -> /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
 copying my_py_pkg/__init__.py -> /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+copying my_py_pkg/subscriber_node.py -> /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
 running install
 running install_lib
 creating /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my_py_pkg
 copying /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/publisher_node.py -> /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my_py_pkg
 copying /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/__init__.py -> /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my_py_pkg
+copying /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/subscriber_node.py -> /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my_py_pkg
 byte-compiling /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my_py_pkg/publisher_node.py to publisher_node.cpython-312.pyc
 byte-compiling /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my_py_pkg/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my_py_pkg/subscriber_node.py to subscriber_node.cpython-312.pyc
 running install_data
 creating /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/install/my_py_pkg/share/ament_index
 creating /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/install/my_py_pkg/share/ament_index/resource_index
