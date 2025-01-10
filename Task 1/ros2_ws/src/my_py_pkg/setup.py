@@ -20,8 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'publisher_node = my_py_pkg.publisher_node:main'
-            'listener_node = my_py_pkg.subscriber_node:main',
+            'publisher_node = my_py_pkg.publisher_node:main',
+            'listener_node = my_py_pkg.subscriber_node:main'
         ],
     },
 )

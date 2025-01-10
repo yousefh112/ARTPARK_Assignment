@@ -35,5 +35,6 @@ copying package.xml -> /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/install/my
 running install_egg_info
 Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages/my_py_pkg-0.0.0-py3.12.egg-info
 running install_scripts
+Installing listener_node script to /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/install/my_py_pkg/lib/my_py_pkg
 Installing publisher_node script to /home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/install/my_py_pkg/lib/my_py_pkg
 writing list of installed files to '/home/yousef/ARTPARK_Assignment/Task 1/ros2_ws/build/my_py_pkg/install.log'
