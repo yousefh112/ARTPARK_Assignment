@@ -21,6 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
             'publisher_node = my_py_pkg.publisher_node:main',
+            'listener_node = py_pkg.subscriber_node:main'
         ],
     },
 )
