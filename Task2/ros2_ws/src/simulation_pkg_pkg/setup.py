@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'sum_pkg'
+package_name = 'simulation_pkg'
 
 setup(
     name=package_name,
@@ -20,7 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
        'console_scripts': [
-             'talker = sum_pkg.publisher:main',
+             'publisher = simulation_pkg.robot_state_publisher:main',
         ],
     },
 )

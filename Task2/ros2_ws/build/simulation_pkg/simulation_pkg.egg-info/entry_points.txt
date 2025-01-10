@@ -1,0 +1,2 @@
+[console_scripts]
+publisher = simulation_pkg.robot_state_publisher:main

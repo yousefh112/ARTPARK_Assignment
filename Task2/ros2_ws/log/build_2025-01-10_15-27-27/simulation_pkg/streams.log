@@ -1,0 +1,31 @@
+[1.003s] Invoking command in '/home/yousef/ARTPARK_Assignment/Task2/ros2_ws/src/simulation_pkg_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/yousef/ARTPARK_Assignment/Task2/ros2_ws/build/simulation_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yousef/ARTPARK_Assignment/Task2/ros2_ws/install/simulation_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simulation_pkg build --build-base /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/build/simulation_pkg/build install --record /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/build/simulation_pkg/install.log --single-version-externally-managed install_data
+[1.344s] running egg_info
+[1.344s] creating ../../build/simulation_pkg/simulation_pkg.egg-info
+[1.370s] writing ../../build/simulation_pkg/simulation_pkg.egg-info/PKG-INFO
+[1.370s] writing dependency_links to ../../build/simulation_pkg/simulation_pkg.egg-info/dependency_links.txt
+[1.370s] writing entry points to ../../build/simulation_pkg/simulation_pkg.egg-info/entry_points.txt
+[1.371s] writing requirements to ../../build/simulation_pkg/simulation_pkg.egg-info/requires.txt
+[1.371s] writing top-level names to ../../build/simulation_pkg/simulation_pkg.egg-info/top_level.txt
+[1.371s] writing manifest file '../../build/simulation_pkg/simulation_pkg.egg-info/SOURCES.txt'
+[1.424s] reading manifest file '../../build/simulation_pkg/simulation_pkg.egg-info/SOURCES.txt'
+[1.425s] writing manifest file '../../build/simulation_pkg/simulation_pkg.egg-info/SOURCES.txt'
+[1.425s] running build
+[1.425s] running build_py
+[1.426s] creating /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/build/simulation_pkg/build
+[1.426s] creating /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/build/simulation_pkg/build/lib
+[1.426s] creating /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/build/simulation_pkg/build/lib/simulation_pkg
+[1.426s] copying simulation_pkg/__init__.py -> /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/build/simulation_pkg/build/lib/simulation_pkg
+[1.426s] copying simulation_pkg/robot_state_publisher.py -> /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/build/simulation_pkg/build/lib/simulation_pkg
+[1.426s] running install
+[1.434s] running install_lib
+[1.462s] creating /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/install/simulation_pkg/lib/python3.12/site-packages/simulation_pkg
+[1.462s] copying /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/build/simulation_pkg/build/lib/simulation_pkg/__init__.py -> /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/install/simulation_pkg/lib/python3.12/site-packages/simulation_pkg
+[1.462s] copying /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/build/simulation_pkg/build/lib/simulation_pkg/robot_state_publisher.py -> /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/install/simulation_pkg/lib/python3.12/site-packages/simulation_pkg
+[1.463s] byte-compiling /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/install/simulation_pkg/lib/python3.12/site-packages/simulation_pkg/__init__.py to __init__.cpython-312.pyc
+[1.463s] byte-compiling /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/install/simulation_pkg/lib/python3.12/site-packages/simulation_pkg/robot_state_publisher.py to robot_state_publisher.cpython-312.pyc
+[1.464s] running install_data
+[1.464s] creating /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/install/simulation_pkg/share/ament_index
+[1.464s] creating /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/install/simulation_pkg/share/ament_index/resource_index
+[1.464s] error: can't copy 'resource/simulation_pkg': doesn't exist or not a regular file
+[1.464s] creating /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/install/simulation_pkg/share/ament_index/resource_index/packages
+[1.492s] Invoked command in '/home/yousef/ARTPARK_Assignment/Task2/ros2_ws/src/simulation_pkg_pkg' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/yousef/ARTPARK_Assignment/Task2/ros2_ws/build/simulation_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yousef/ARTPARK_Assignment/Task2/ros2_ws/install/simulation_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simulation_pkg build --build-base /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/build/simulation_pkg/build install --record /home/yousef/ARTPARK_Assignment/Task2/ros2_ws/build/simulation_pkg/install.log --single-version-externally-managed install_data
